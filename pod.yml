@@ -7,6 +7,6 @@ metadata:
 spec:
    containers:
    - name: mytom
-     image: nginx
+     image: paul1199/node-app:25
      ports:
      - containerPort: 80
